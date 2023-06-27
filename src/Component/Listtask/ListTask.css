@@ -1,0 +1,14 @@
+
+   
+
+.status-button {
+    text-align: center;
+    justify-content: space-between;
+   
+    cursor: pointer;
+  }
+  
+  .status-button:hover {
+   
+    color: #F6F6F6;
+  }
